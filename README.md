@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/yourusername/yourusername/blob/main/profile-banner.png)
+![Banner](https://github.com/SonavaneShilpa/SonavaneShilpa/blob/main/profile-banner.png)
 
 # Hi there 👋, I'm Shilpa Sonavane  
 💻 Java Full Stack Developer | Machine Learning Enthusiast | Open Source Learner
