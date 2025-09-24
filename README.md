@@ -55,6 +55,12 @@ Currently working on **Mango Leaf Disease Detection using CNN & Android App** �
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+
+---
+
+## 📊 Contribution Graph
+[![Shilpa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00FFFB&line=00FFFB&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
