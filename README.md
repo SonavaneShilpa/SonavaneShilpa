@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Shilpa Sonavane  
 
-💻 **Java Full Stack Developer | Machine Learning Enthusiast | Open Source Learner**  
+![Banner](https://github.com/yourusername/yourusername/blob/main/profile-banner.png)
+
+# Hi there 👋, I'm Shilpa Sonavane  
+💻 Java Full Stack Developer | Machine Learning Enthusiast | Open Source Learner
 
 I enjoy building scalable applications and exploring deep learning models.  
 Currently working on **Mango Leaf Disease Detection using CNN & Android App** 🍃📱  
